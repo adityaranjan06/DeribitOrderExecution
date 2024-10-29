@@ -1,0 +1,8 @@
+# ninja log v6
+2	2514	1730101796889502321	CMakeFiles/DeribitOrderExecution.dir/src/main.cpp.o	86cb1594e92abc5a
+1	1321	1730101796888746079	CMakeFiles/DeribitOrderExecution.dir/src/Auth.cpp.o	d26be035fe76ee9b
+2	1319	1730101796889188949	CMakeFiles/DeribitOrderExecution.dir/src/OrderManager.cpp.o	40330cba7c98c1f0
+2	1149	1730101796889022868	CMakeFiles/DeribitOrderExecution.dir/src/HttpRequest.cpp.o	1235f891a8e88cba
+5	154	1730102081213749033	build.ninja	5d004b264eebda9e
+7	4325	1730102043737661537	CMakeFiles/DeribitOrderExecution.dir/main.cpp.o	4e57a9b24b4b2be3
+4325	4494	1730102048055963777	DeribitOrderExecution	b25bf8acbc4be6bc
