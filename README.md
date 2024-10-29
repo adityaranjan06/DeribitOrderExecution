@@ -22,3 +22,9 @@ This project is an Order Execution and Management System designed for trading on
    ```bash
    git clone https://github.com/adityaranjan06/DeribitOrderExecution.git
    cd DeribitOrderExecution
+
+
+
+Notes
+This project is developed for the Deribit Test environment and is not intended for live trading use.
+Ensure API keys and credentials are handled securely.
